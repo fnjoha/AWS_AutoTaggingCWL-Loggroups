@@ -1,0 +1,5 @@
+CSv File Format must be as follows.Remove "LoggroupName" & "tags" Title. Just the enter the log groups & tags in the adjacent column no need for titles.
+| LogGroupName | Tags                   |
+|--------------|------------------------|
+| Group1       | key1=value1,key2=value2|
+| Group2       | key3=value3,key4=value4|
